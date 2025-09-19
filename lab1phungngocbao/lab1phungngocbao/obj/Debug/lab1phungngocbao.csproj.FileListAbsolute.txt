@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\lab1phungngocbao\lab1phungngocbao\bin\Debug\lab1phungngocbao.exe.config
+C:\Users\Administrator\source\repos\lab1phungngocbao\lab1phungngocbao\bin\Debug\lab1phungngocbao.exe
+C:\Users\Administrator\source\repos\lab1phungngocbao\lab1phungngocbao\bin\Debug\lab1phungngocbao.pdb
+C:\Users\Administrator\source\repos\lab1phungngocbao\lab1phungngocbao\obj\Debug\lab1phungngocbao.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\lab1phungngocbao\lab1phungngocbao\obj\Debug\lab1phungngocbao.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\lab1phungngocbao\lab1phungngocbao\obj\Debug\lab1phungngocbao.exe
+C:\Users\Administrator\source\repos\lab1phungngocbao\lab1phungngocbao\obj\Debug\lab1phungngocbao.pdb
